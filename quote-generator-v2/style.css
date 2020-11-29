@@ -35,18 +35,11 @@ body {
 }
 
 .fa-quote-left {
-    font-size: 4rem;
-}
-
-.quote-author {
-    margin-top: 15px;
-    font-size: 2rem;
-    font-weight: 400;
-    font-style: italic;
+    font-size: 3rem;
 }
 
 .button-container {
-    margin-top: 15px;
+    margin-top: 40px;
     display: flex;
     justify-content: space-between;
 }
