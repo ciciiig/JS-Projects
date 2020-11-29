@@ -57,6 +57,11 @@ button {
     box-shadow: 0 0.3rem rgba(121, 121, 121, 0.65);
 }
 
+a {
+  color: white;
+  text-decoration: none; /* no underline */
+}
+
 button:hover {
     filter: brightness(130%);
 }
@@ -66,7 +71,7 @@ button:active {
     box-shadow: 0 0.1rem rgba(255, 255, 255, 0.65)
 }
 
-.fb-button:hover {
+a:hover {
     color: #3b5998;
 }
 
